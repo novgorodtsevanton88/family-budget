@@ -1,5 +1,5 @@
-// Сімейний бюджет: офлайн-кеш. Версія: 5
-var C='fb-5';
+// Сімейний бюджет: офлайн-кеш. Версія: 6
+var C='fb-6';
 var CORE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./apple-touch-icon.png'];
 var LIB='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js';
 self.addEventListener('install',function(e){
